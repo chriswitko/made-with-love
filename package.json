@@ -1,14 +1,16 @@
 {
   "name": "@chriswitko/made-with-love",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Heart Web Component",
   "main": "index.js",
+  "types": "index.d.ts",
   "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chriswitko/made-with-love.git"
   },
   "scripts": {
+    "publish": "npm publish --access public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
