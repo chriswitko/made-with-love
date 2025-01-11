@@ -5,5 +5,5 @@ A simple web component.
 ## Installation
 
 ```bash
-npm install made-with-love
+npm i @chriswitko/made-with-love
 ```
