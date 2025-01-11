@@ -1,6 +1,6 @@
 {
   "name": "@chriswitko/made-with-love",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Heart Web Component",
   "main": "index.js",
   "type": "module",
