@@ -1,4 +1,4 @@
-# Made With Lobe Web Component
+# Made With Love Web Component
 
 A simple web component.
 
@@ -16,7 +16,7 @@ npm i @chriswitko/made-with-love
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Made With Lobe</title>
+    <title>Made With Love</title>
   </head>
   <body>
     <made-with-love></made-with-love>
